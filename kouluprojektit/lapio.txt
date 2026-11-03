@@ -1,0 +1,2 @@
+Tässä ovat Lapio-kurssin harjoitukset.
+Harjoittelen komentorivin käyttöä ja Gitiä.
