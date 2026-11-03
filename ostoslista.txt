@@ -5,3 +5,4 @@ Kahvi
 Banaanit
 Omenat
 Kananmunat
+Perunat
