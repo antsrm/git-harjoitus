@@ -1,1 +1,1 @@
-Olipa kerran komea, älykäs ja vaatimaton opiskelija, joka päätti opetella ohjelmointia. Hän harjoitteli joka päivä ja oppi vähitellen käyttämään komentoriviä ja Gitiä.
+Olipa kerran komea, älykäs ja vaatimaton opiskelija, joka päätti opetella ohjelmointia. Hän harjoitteli joka toinen viikonloppu ja oppi vähitellen käyttämään komentoriviä ja Gitiä.
