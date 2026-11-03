@@ -1,0 +1,1 @@
+Olipa kerran opiskelija, joka päätti opetella ohjelmointia. Hän harjoitteli joka päivä ja oppi vähitellen käyttämään komentoriviä ja Gitiä.
